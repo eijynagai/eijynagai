@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eijy Nagai
+# 👋 Hi, I'm Luis A. Eijy Nagai
 
 I'm a **bioinformatics researcher** passionate about transforming complex omics data into clear, actionable insights. I specialize in:
 
